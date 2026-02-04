@@ -16,7 +16,7 @@ chmod +x start.sh
 
 ./start.sh
 
-
+		
 If you want to see what's in the script first:
 
 cat start.sh
